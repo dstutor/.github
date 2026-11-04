@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="brand/banner-dark.png">
-  <img alt="Data Science Tutor" src="brand/banner.png" width="640">
-</picture>
-
 Data Science Tutor shows how data science code changes data, one step at a time.
 You write code in a notebook, run it, and watch each operation animate from input
 to output. It all runs in your browser with Pyodide, so there is nothing to
